@@ -2,7 +2,12 @@
 
 A multi-agent TypeScript web application for automatically generating comprehensive technical and functional specifications from GitHub repositories or local folders using AI-powered analysis.
 
-![TechDocs Generator Interface](src/assets/TechDocsGenerator1.png)
+
+### TechDocs Generator Interface Github
+![TechDocs Generator Interface Github](src/assets/TechDocsGeneratorGithub.png)
+
+### TechDocs Generator Interface Local Folder
+![TechDocs Generator Interface Local Folder](src/assets/TechDocsGeneratorLocalFolder.png)
 
 ## Features
 
@@ -20,11 +25,12 @@ A multi-agent TypeScript web application for automatically generating comprehens
 - **Class Diagrams**: Text-based class relationship diagrams in technical specifications
 - **Automatic Analysis**: Identifies programming languages, frameworks, and architecture patterns
 
-### Generated Technical Specifications Example
+### Generated Technical Specification Example
 
 ![Generated Technical Specifications Example](src/assets/TechDocsGenerator_GeneratedTechSpecs_Example.png)
 
-### Generated Functional Specifications Example
+
+### Generated Functional Specification Example
 ![Generated Functional Specifications Example](src/assets/TechDocsGenerator_GeneratedFuncSpecs_Example.png)
 
 ### 📧 Email Integration
