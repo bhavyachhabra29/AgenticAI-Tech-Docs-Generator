@@ -27,7 +27,7 @@ A multi-agent TypeScript web application for automatically generating comprehens
 
 ### Generated Technical Specification Example
 
-![Generated Technical Specifications Example](src/assets/TechDocsGenerator_GeneratedTechSpecs_Example.png)
+![Generated Technical Specifications Example](src/assets/TechDocsGenerator_GeneratedTechnicalSpecs_Example.png)
 
 
 ### Generated Functional Specification Example
